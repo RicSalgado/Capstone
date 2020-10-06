@@ -3,4 +3,4 @@ The following repository will act as an archive for all code used to complete th
 
 The Capstone Project is a classification exercise of the Fashion MNIST dataset available at [Kaggle](https://www.kaggle.com/zalando-research/fashionmnist).
 
-There currently exists several comprehensive repositories regarding the above data, which can be found [here](https://github.com/zalandoresearch/fashion-mnist).
+There currently exists several comprehensive repositories regarding the above data, which can be found [here](https://github.com/zalandoresearch/fashion-mnist), for further reading. A benchmark bashboard is also [available](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/#).
